@@ -1,4 +1,4 @@
-## Amjad Jamali (Android Native & Flutter Developer)
+## Amjad Jamali (Android Native & Flutter Developer)  [![GitHub stars](https://img.shields.io/github/stars/amjadjamali06.svg?style=social)](https://github.com/amjadjamali06)
 
 Currently working on Flutter
 
